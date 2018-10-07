@@ -1,5 +1,7 @@
 main:
 - title: Features
   url: /features/
+- title: Pricing
+  url: /pricing/
 - title: Sign In
   url: https://app.courier.blog/
