@@ -11,7 +11,7 @@ header:
   - label: "Get Started"
     url: "https://app.courier.blog/"
 excerpt: |
-  Post everything to your own blog, and let Courier deliver it to Twitter in way that makes sense.
+  Post everything to your own blog, and let Courier deliver it to Twitter in a way that makes sense.
 feature_row:
 - title: Translates your HTML into tweetable text
   excerpt: Courier understands what a tweet should look like and will format your posts in an intelligent way. Your tweets will look like you typed them by hand just for Twitter.
