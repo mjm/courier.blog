@@ -4,11 +4,11 @@
 
 @charset "utf-8";
 
-$serif              : "PT Serif", Georgia, Times, serif;
-$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+//$serif              : "PT Serif", Georgia, Times, serif;
+$sans-serif: "Cabin", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
-$global-font-family : $serif;
-$header-font-family : $sans-serif-narrow;
+$global-font-family : $sans-serif;
+$header-font-family : $sans-serif;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
